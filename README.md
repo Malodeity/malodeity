@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi, Malo! 👋</h1>
 
-<h3 align="center">Data Engineer · Data Analyst · Systems Analyst</h3>
+<h3 align="center">Data Engineer · AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=620&lines=Building+pipelines+that+move+billions;ETL+%C2%B7+Spark+%C2%B7+Airflow+%C2%B7+Power+BI;Turning+raw+data+into+decisions;8%2B+years+in+Financial+Services;SQL+%C2%B7+Python+%C2%B7+Azure+%C2%B7+Snowflake" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=620&lines=Large-scale+data+infrastructure;LLM+Pipelines+%C2%B7+RAG+%C2%B7+Vector+Search;Distributed+Systems+%C2%B7+Spark+%C2%B7+Kafka;Anomaly+Detection+%C2%B7+Time-Series+%C2%B7+Graphs;8%2B+years+in+Financial+Data" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  Building data pipelines, BI platforms, and scalable analytics solutions in financial services — 8+ years turning raw data into decisions.
+  Engineering data infrastructure and AI systems at scale. 8+ years in financial services.
 </p>
 
 ---
@@ -51,46 +51,46 @@
 <h3 align="center">🧑‍💻 About Me</h3>
 
 <p align="center">
-  I am a data engineer and systems analyst with 8+ years of experience building the data infrastructure<br/>
-  that financial services organisations depend on to operate, report, and make decisions at scale.<br/>
-  My work covers the full journey from raw source data to trusted business insight: designing schemas,<br/>
-  architecting pipelines, enforcing data quality, and delivering analytics that people actually act on.
+  I am a data engineer with 8+ years building large-scale data infrastructure in financial services.<br/>
+  My focus is distributed pipeline architecture, real-time stream processing, and the full data lifecycle<br/>
+  from ingestion and transformation to serving and observability. I engineer systems that handle<br/>
+  high volumes of transactional data with consistency, fault tolerance, and low latency by design.
 </p>
 
 <p align="center">
-  What defines my approach is the ability to move fluently between engineering and business.<br/>
-  I write BRS and FRS documents, facilitate requirements sessions, model complex domains,<br/>
-  and then build the pipelines, dashboards, and APIs that bring those requirements to life.<br/>
-  I have delivered high-volume transactional data platforms, enterprise BI solutions with Power BI,<br/>
-  and full-stack internal tools using Python, C#/.NET, Angular, and Node.js.
+  My current depth is at the intersection of data engineering and AI. I build ML feature pipelines,<br/>
+  vector embedding workflows, and retrieval-augmented generation systems that connect structured<br/>
+  financial data to large language models. I work with transformer-based architectures, dense vector<br/>
+  indices for semantic search, and the orchestration patterns that make AI systems production-ready.
 </p>
 
 <p align="center">
-  Good data engineering is invisible. When it works, numbers are trusted, decisions are faster,<br/>
-  and the business stops asking whether the data is right. That is what I build towards.<br/>
-  Currently deepening my computer science foundations through an Advanced Diploma at TUT.
+  At the algorithm level, I care about the mechanics: graph traversal for entity resolution,<br/>
+  time-series decomposition and spectral methods for anomaly detection, approximate nearest-neighbour<br/>
+  search at scale, and the tradeoffs between batch and streaming computation models.<br/>
+  Data engineering done well is not plumbing. It is applied computer science under real constraints.
 </p>
 
 <table align="center">
   <tr>
-    <td>⚙️ ETL/ELT</td>
-    <td>Airflow · Spark · Kafka · Streamsets</td>
+    <td>⚙️ Data Pipelines</td>
+    <td>Airflow · Spark · Kafka · Streamsets · dbt</td>
   </tr>
   <tr>
-    <td>📊 BI & Reporting</td>
-    <td>Power BI · DAX · Power Query · Role-Level Security</td>
+    <td>🤖 AI and LLMs</td>
+    <td>RAG · Embeddings · LangChain · Vector Search · Fine-tuning</td>
   </tr>
   <tr>
-    <td>🗄️ Data Modelling</td>
-    <td>SQL Server · PostgreSQL · Snowflake · MongoDB</td>
+    <td>🧮 Algorithms</td>
+    <td>Time-Series · Anomaly Detection · Graph · ANN · NLP</td>
   </tr>
   <tr>
-    <td>📐 Systems Analysis</td>
-    <td>BRS/FRS · User Stories · Solution Architecture</td>
+    <td>🗄️ Data Stores</td>
+    <td>PostgreSQL · Snowflake · MongoDB · Elasticsearch · Redis</td>
   </tr>
   <tr>
-    <td>💻 Full-Stack</td>
-    <td>Python · C#/.NET · Angular · Node.js</td>
+    <td>📊 Analytics</td>
+    <td>Power BI · DAX · dbt · Power Query · Grafana</td>
   </tr>
 </table>
 
