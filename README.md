@@ -84,14 +84,6 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malodeity&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
