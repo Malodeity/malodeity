@@ -94,29 +94,6 @@
   Data engineering done well is not plumbing. It is applied computer science under real constraints.
 </p>
 
-<table align="center">
-  <tr>
-    <td>⚙️ Data Pipelines</td>
-    <td>Airflow · Spark · Kafka · Streamsets · dbt</td>
-  </tr>
-  <tr>
-    <td>🤖 AI and LLMs</td>
-    <td>RAG · Embeddings · LangChain · Vector Search · Fine-tuning</td>
-  </tr>
-  <tr>
-    <td>🧮 Algorithms</td>
-    <td>Time-Series · Anomaly Detection · Graph · ANN · NLP</td>
-  </tr>
-  <tr>
-    <td>🗄️ Data Stores</td>
-    <td>PostgreSQL · Snowflake · MongoDB · Elasticsearch · Redis</td>
-  </tr>
-  <tr>
-    <td>📊 Analytics</td>
-    <td>Power BI · DAX · dbt · Power Query · Grafana</td>
-  </tr>
-</table>
-
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
