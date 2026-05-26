@@ -51,12 +51,24 @@
 <h3 align="center">🧑‍💻 About Me</h3>
 
 <p align="center">
-  I'm a data engineer and systems analyst with 8+ years of experience in financial services,<br/>
-  specialising in data pipeline architecture, ETL/ELT processes, and Power BI reporting.<br/>
-  I've built analytics platforms and BI solutions at scale — from high-volume transaction banking<br/>
-  infrastructure to Trade & Treasury systems — bridging the gap between business and engineering,<br/>
-  translating complex requirements into data models, dashboards, and production-ready pipelines.<br/>
-  Currently pursuing an Advanced Diploma in Computer Science at TUT.
+  I am a data engineer and systems analyst with 8+ years of experience building the data infrastructure<br/>
+  that financial services organisations depend on to operate, report, and make decisions at scale.<br/>
+  My work covers the full journey from raw source data to trusted business insight: designing schemas,<br/>
+  architecting pipelines, enforcing data quality, and delivering analytics that people actually act on.
+</p>
+
+<p align="center">
+  What defines my approach is the ability to move fluently between engineering and business.<br/>
+  I write BRS and FRS documents, facilitate requirements sessions, model complex domains,<br/>
+  and then build the pipelines, dashboards, and APIs that bring those requirements to life.<br/>
+  I have delivered high-volume transactional data platforms, enterprise BI solutions with Power BI,<br/>
+  and full-stack internal tools using Python, C#/.NET, Angular, and Node.js.
+</p>
+
+<p align="center">
+  Good data engineering is invisible. When it works, numbers are trusted, decisions are faster,<br/>
+  and the business stops asking whether the data is right. That is what I build towards.<br/>
+  Currently deepening my computer science foundations through an Advanced Diploma at TUT.
 </p>
 
 <table align="center">
