@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,scala,postgres,redis,mongodb,elasticsearch,azure,aws,docker,kubernetes,kafka,grafana,pytorch,tensorflow,git" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=py,r,scala,postgres,redis,mongodb,elasticsearch,azure,aws,docker,kubernetes,kafka,grafana,pytorch,tensorflow" alt="Skills and tools"/>
   </a>
 </p>
 
