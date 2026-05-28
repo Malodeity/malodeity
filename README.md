@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, Malo! 👋</h1>
 
-<h3 align="center">Data Engineer · Data Analyst/h3>
+<h3 align="center">Data Engineer · Data Analyst /h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=620&lines=Large-scale+data+infrastructure;LLM+Pipelines+%C2%B7+RAG+%C2%B7+Vector+Search;Distributed+Systems+%C2%B7+Spark+%C2%B7+Kafka;Anomaly+Detection+%C2%B7+Time-Series+%C2%B7+Graphs;8%2B+years+in+Financial+Data" alt="Typing SVG"/>
