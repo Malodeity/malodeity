@@ -57,45 +57,6 @@
 
 ---
 
-<h3 align="center">🌐 Let's Connect</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/malodeity/" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/malodeity" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">🧑‍💻 About Me</h3>
-
-<p align="center">
-  I am a data engineer with 8+ years building large-scale data infrastructure in financial services.<br/>
-  My focus is distributed pipeline architecture, real-time stream processing, and the full data lifecycle<br/>
-  from ingestion and transformation to serving and observability. I engineer systems that handle<br/>
-  high volumes of transactional data with consistency, fault tolerance, and low latency by design.
-</p>
-
-<p align="center">
-  My current depth is at the intersection of data engineering and AI. I build ML feature pipelines,<br/>
-  vector embedding workflows, and retrieval-augmented generation systems that connect structured<br/>
-  financial data to large language models. I work with transformer-based architectures, dense vector<br/>
-  indices for semantic search, and the orchestration patterns that make AI systems production-ready.
-</p>
-
-<p align="center">
-  At the algorithm level, I care about the mechanics: graph traversal for entity resolution,<br/>
-  time-series decomposition and spectral methods for anomaly detection, approximate nearest-neighbour<br/>
-  search at scale, and the tradeoffs between batch and streaming computation models.<br/>
-  Data engineering done well is not plumbing. It is applied computer science under real constraints.
-</p>
-
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
